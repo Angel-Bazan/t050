@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-<!--
-**t050/t050** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![Nicolas Luevano GitHub banner (3)](https://user-images.githubusercontent.com/64442298/110597859-f181d680-8135-11eb-919a-50bc9db16495.gif)
+
 
 
 
