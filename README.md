@@ -14,19 +14,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sanchez27_angel" target="blank"><img align="center" src="https://drive.google.com/drive/u/0/my-drive" alt="sanchez27_angel" height="30" width="40" /></a>
+<a href="https://twitter.com/sanchez27_angel" target="blank"><img align="center" src="https://user-images.githubusercontent.com/66194627/111112821-0edfe780-851e-11eb-8063-7c0ae75f285a.png" alt="sanchez27_angel" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/angel-sanchez-a09723190/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/66194627/111111580-d939ff00-851b-11eb-99a8-efec902f2c1a.png" alt="angelsanchez" height="30" width="40" /></a>
 </p> 
-
-## Connect with me
-
-[![github](https://user-images.githubusercontent.com/66194627/111111580-d939ff00-851b-11eb-99a8-efec902f2c1a.png)][1] 
-[![github](https://user-images.githubusercontent.com/66194627/111112821-0edfe780-851e-11eb-8063-7c0ae75f285a.png)][2]
-[![github](https://user-images.githubusercontent.com/66194627/111112833-11dad800-851e-11eb-8d8b-183a1ae64e68.png)][3]
-
-
-[1]: https://www.linkedin.com/in/angel-sanchez-a09723190/ 
-[2]: https://twitter.com/sanchez27_angel
 
 
 ## Skills  
