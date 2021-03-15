@@ -42,8 +42,7 @@
 </div>
 </td><td valign="top" width="50%">
  
- 
- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=angelsanchezbazan=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+
 
 
 
