@@ -3,7 +3,7 @@
 ### Hi there 👋
 
 
-<h3 align="center">I am a Software Engineer based in Orange County, CA. I am proficient in both Frontend development and Backend development. I have extensive knowledge in HTML, CSS, Javascript, Node.Js, MongoDB, and React.</h3>
+<h3 align="left">I am a Software Engineer based in Orange County, CA. I am proficient in both Frontend development and Backend development. I have extensive knowledge in HTML, CSS, Javascript, Node.Js, MongoDB, and React.</h3>
 
 
 
