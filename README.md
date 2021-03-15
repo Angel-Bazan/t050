@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sanchez27_angel" target="blank"><img align="center" src="fab fa-twitter" alt="sanchez27_angel" height="30" width="40" /></a>
+<a href="https://twitter.com/sanchez27_angel" target="blank"><img align="center" src="https://drive.google.com/drive/u/0/my-drive" alt="sanchez27_angel" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/angel-sanchez-a09723190/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="angelsanchez" height="30" width="40" /></a>
 </p>
 
