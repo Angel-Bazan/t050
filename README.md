@@ -15,10 +15,14 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sanchez27_angel" target="blank"><img align="center" src="https://drive.google.com/drive/u/0/my-drive" alt="sanchez27_angel" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/angel-sanchez-a09723190/" target="blank"><img align="center" src="!(https://user-images.githubusercontent.com/66194627/111111580-d939ff00-851b-11eb-99a8-efec902f2c1a.png)[1]" alt="angelsanchez" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/angel-sanchez-a09723190/" target="blank"><img align="center" src="![github](https://user-images.githubusercontent.com/66194627/111111580-d939ff00-851b-11eb-99a8-efec902f2c1a.png)[1]" alt="angelsanchez" height="30" width="40" /></a>
 </p>
 
+##new
 
+[![github](https://user-images.githubusercontent.com/66194627/111111580-d939ff00-851b-11eb-99a8-efec902f2c1a.png)][1]
+
+[1]: https://www.linkedin.com/in/angel-sanchez-a09723190/ 
 
 
 ## Skills  
