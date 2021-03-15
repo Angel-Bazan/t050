@@ -35,6 +35,9 @@
 </div>
 </td><td valign="top" width="50%">
  
+ 
+ [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=angelsanchezbazan&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+ 
  ## GitHub Stats
 
 
