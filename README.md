@@ -1,7 +1,6 @@
-### Hi there 👋
-
 ![Furniture](https://user-images.githubusercontent.com/66194627/111115963-8fa0e280-8522-11eb-8f1e-e215b98f8687.png)
 
+### Hi there 👋
 
 
 <h3 align="center">I am a Software Engineer based in Orange County, CA. I am proficient in both Frontend development and Backend development. I have extensive knowledge in HTML, CSS, Javascript, Node.Js, MongoDB, and React.</h3>
