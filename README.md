@@ -12,6 +12,14 @@
 - 👯 I’m looking to collaborate on more projects in 2021  
 - ⚡ Fun fact: I like dancing 
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/sanchez27_angel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sanchez27_angel" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/angel-sanchez-a09723190/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="angelsanchez" height="30" width="40" /></a>
+</p>
+
+
+
 
 ## Skills  
  
