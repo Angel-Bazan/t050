@@ -9,7 +9,7 @@
 
 
 - 📫 How to reach me **angelsanchez.as524@gmail.com**
-- 👯 I’m looking to collaborate on more pjects in 2021  
+- 👯 I’m looking to collaborate on more projects in 2021  
 - ⚡ Fun fact: I like dancing 
 
 
