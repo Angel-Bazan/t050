@@ -21,7 +21,7 @@
 ## Connect with me
 
 [![github](https://user-images.githubusercontent.com/66194627/111111580-d939ff00-851b-11eb-99a8-efec902f2c1a.png)][1] 
-[![github](https://user-images.githubusercontent.com/66194627/111111580-d939ff00-851b-11eb-99a8-efec902f2c1a.png)][2]
+[![github](https://user-images.githubusercontent.com/66194627/111112821-0edfe780-851e-11eb-8063-7c0ae75f285a.png)][2]
 [![github](https://user-images.githubusercontent.com/66194627/111111580-d939ff00-851b-11eb-99a8-efec902f2c1a.png)][3]
 
 
