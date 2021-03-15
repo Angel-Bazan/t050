@@ -18,11 +18,15 @@
 <a href="https://www.linkedin.com/in/angel-sanchez-a09723190/" target="blank"><img align="center" src="![github](https://user-images.githubusercontent.com/66194627/111111580-d939ff00-851b-11eb-99a8-efec902f2c1a.png)[1]" alt="angelsanchez" height="30" width="40" /></a>
 </p> 
 
-##Connect with me
+## Connect with me
 
-[![github](https://user-images.githubusercontent.com/66194627/111111580-d939ff00-851b-11eb-99a8-efec902f2c1a.png)][1]
+[![github](https://user-images.githubusercontent.com/66194627/111111580-d939ff00-851b-11eb-99a8-efec902f2c1a.png)][1] 
+[![github](https://user-images.githubusercontent.com/66194627/111111580-d939ff00-851b-11eb-99a8-efec902f2c1a.png)][2]
+[![github](https://user-images.githubusercontent.com/66194627/111111580-d939ff00-851b-11eb-99a8-efec902f2c1a.png)][3]
+
 
 [1]: https://www.linkedin.com/in/angel-sanchez-a09723190/ 
+[2]: https://twitter.com/sanchez27_angel
 
 
 ## Skills  
