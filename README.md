@@ -7,7 +7,7 @@
 
 <h3 align="left">I am a Software Engineer based in Orange County, CA. I am proficient in both Frontend development and Backend development. I have extensive knowledge in HTML, CSS, Javascript, Node.Js, MongoDB, and React.</h3>
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" />
 
 - 📫 How to reach me **angelsanchez.as524@gmail.com**
 - 👯 I’m looking to collaborate on more projects in 2021  
