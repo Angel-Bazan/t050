@@ -10,7 +10,7 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" />
 
 - 📫 How to reach me **angelsanchez.as524@gmail.com**
-- 👯 I’m looking to collaborate on more projects in 2021  
+- 👯 I’m looking to collaborate on more projects
 - ⚡ Fun fact: I ❤ dancing 
 
 <h3 align="left">Connect with me:</h3>
