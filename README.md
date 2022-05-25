@@ -9,9 +9,6 @@
 
 
 
-- 📫 How to reach me **angelsanchez.as524@gmail.com**
-- 👯 I’m looking to collaborate on more projects
-- ⚡ Fun fact: I ❤ dancing 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
